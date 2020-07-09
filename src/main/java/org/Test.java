@@ -11,6 +11,7 @@ public class Test {
     public double methodSum(int a, int b){
         return  (a + b) / 2.0;
     }
+
     public  void sum(int n){
         int sum = 0;
         for (int i = 1; i <= n; i++){
