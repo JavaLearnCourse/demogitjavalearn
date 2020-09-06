@@ -13,10 +13,10 @@ public class Test {
 
     public static void sum(int n){
 
-        int sum = 0;
+        int sum3 = 0;
         for (int i = 1; i <= n; i++){
-            sum += i;
+            sum3 += i;
         }
-        System.out.println(sum);
+        System.out.println(sum3);
     }
 }
