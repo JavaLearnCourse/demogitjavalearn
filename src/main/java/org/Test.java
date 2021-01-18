@@ -9,12 +9,12 @@ public class Test {
 
     /**
      * Calculates averrage
-     * @param a integer number
+     * @param a int nmber
      * @param b number
      * @return
      */
     public double methodSum(int a, int b){
-        return  (a + b) / 2.0;
+        return  (a + b) * 2.0;
     }
 
     public static void sum(int n){
