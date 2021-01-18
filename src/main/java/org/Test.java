@@ -9,7 +9,7 @@ public class Test {
 
     /**
      * Calculates averrage
-     * @param a nmber
+     * @param a int nmber
      * @param b number
      * @return
      */
