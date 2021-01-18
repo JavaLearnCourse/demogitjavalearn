@@ -13,7 +13,7 @@ public class Test {
      * @param b number
      * @return
      */
-    public double methodSum(int a, int b){
+    public double methodSum1(int a, int b){
         return  (a + b) / 2.0;
     }
 
