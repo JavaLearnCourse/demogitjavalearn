@@ -7,6 +7,12 @@ public class Test {
         sum(5);
     }
 
+    /**
+     * Calculates averrage
+     * @param a nmber
+     * @param b number
+     * @return
+     */
     public double methodSum(int a, int b){
         return  (a + b) / 2.0;
     }
